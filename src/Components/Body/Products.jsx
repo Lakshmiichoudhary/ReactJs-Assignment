@@ -1,8 +1,8 @@
 import React from 'react'
-import ProductDetails from './ProductDetails'
-
+import ProductDetails from './productDetails';
 
 const Products = () => {
+  
     const products = [{
         id:"1",
         imgname: "Builder 1",
